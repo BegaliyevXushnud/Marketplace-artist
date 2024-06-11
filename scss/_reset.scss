@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    color: inherit;
+}
+button{
+    cursor: pointer;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1740px;
+}
+.df{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+body{
+    background-color:#3B3B3B;
+}
+.al{
+    border-bottom: 1px solid #fffefe;
+}
